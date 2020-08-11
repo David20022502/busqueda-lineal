@@ -1,0 +1,3 @@
+arreglo :41325869107
+elemento a buscar: 2
+ELEMENTO ENCONTRADO EN LA POSICIÓN: 3
